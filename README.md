@@ -28,3 +28,6 @@ Providing Definitions of Popular Terms:
 **Pull:** used to fetch and download content from a remote repository 
 **Remote:** cloud or off-local-computer files
 **Repository:** folders and files that contain source code in your directory
+
+**Source:** 
+Prajapati, A. (2019, September 20). What is git? commit, push, pull, log, aliases, fetch, config, clone. Medium. https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c
